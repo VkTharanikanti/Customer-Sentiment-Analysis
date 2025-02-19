@@ -1,0 +1,501 @@
+Review_ID,Customer,Review,Rating,Date
+bcfdc4eb-e781-412d-925b-d4045322a49a,James Hopkins,"Great product, very useful!",3,2025-02-15
+6a7353e6-c47b-4267-a463-423049e0f8bb,Shannon Brady,Excellent service and fast delivery!,2,2025-01-19
+9b035591-fbe7-4180-9bf6-af9aeab6b77d,Karen Gutierrez,"Terrible quality, broke quickly.",1,2025-01-06
+a869e6d7-5e5c-44ae-93bd-4f3b3d2621c5,Brett Mann,"Very disappointed, poor design.",1,2025-01-22
+e782007a-dac3-4c96-b9f5-eadbf44cdbd0,Nathan Benitez,"Average, nothing special.",1,2025-01-01
+590c7b26-6df1-4f27-9fff-321ca45cf258,Michael Rivas,Not worth the money.,3,2025-01-22
+4ec23111-b416-40eb-890c-32d34d7145cb,Mathew Bryant,Excellent service and fast delivery!,4,2025-01-17
+f9ce7cb8-1dcf-4724-908c-96ee54714c7e,Robert Taylor,"Great product, very useful!",4,2025-01-26
+d09d3a06-74e5-4b31-894e-ce0dfa070d82,Emily Wiley,"Terrible quality, broke quickly.",2,2025-02-01
+5b92389f-d9c3-46b2-9762-c119e0bc2b80,Dominic Singh,Highly recommend this!,5,2025-01-18
+94325fad-9099-48a9-bfef-c2bbb0835d69,Brenda Chambers,"Great product, very useful!",2,2025-02-03
+3efe456f-d8f5-4573-b211-eede8f5831c2,Lori King,"Very disappointed, poor design.",1,2025-01-27
+adb6ad02-1176-49f6-9dc8-9f2383fdab1b,Steven Anderson,Highly recommend this!,5,2025-01-29
+fc31c2f3-67fc-4f49-bf5b-f250d1bc3e51,Mark Griffin,"Average, nothing special.",4,2025-02-18
+f11015ea-c5ba-4f58-870c-464629d2aac7,Joshua Evans,Highly recommend this!,5,2025-02-13
+d126ae46-51cb-404b-a64b-156d5bb4e845,Peggy Smith,"Average, nothing special.",4,2025-01-29
+79b9a300-2275-4c65-8fa2-a07a3a81a254,Sarah Nguyen,Highly recommend this!,3,2025-01-04
+b0ba067b-bee0-4364-bcb1-54215bae0cd7,Jeffrey Foster,Not worth the money.,4,2025-02-16
+d9e45e31-5915-4c81-a97c-e80226f3c2f5,Joshua Franklin,"Great product, very useful!",3,2025-02-11
+d39d0c07-e958-4e90-9b5a-2e92029109c4,Kathleen Andrews,Highly recommend this!,3,2025-01-13
+c1a084ff-7266-4eab-80d2-8e23c64ba5f1,Olivia Knight,"Average, nothing special.",5,2025-01-05
+0a511b69-973f-4565-84c9-6c7a25b49fc2,Trevor Hughes,"Great product, very useful!",5,2025-01-31
+95a253f6-cc85-488e-bf11-d4723dc3a247,Jamie Sanchez,"Terrible quality, broke quickly.",1,2025-02-07
+6f26da8d-5919-4bd2-86e4-546a4c9b9544,Jacqueline Doyle,"Great product, very useful!",2,2025-01-09
+70e5da5d-26db-4c77-b9ce-346071c2bcd3,Ann Smith,"Very disappointed, poor design.",3,2025-01-11
+5ebb589e-0da2-42c1-abf8-47563d10b8c9,Travis Medina,Excellent service and fast delivery!,1,2025-02-09
+a65cf502-54fe-4096-bd66-f17c377a7319,Dana Walker,Highly recommend this!,1,2025-02-02
+3fb80a75-2654-4bdd-b142-26a3c7a864b7,Stefanie Blake,Not worth the money.,2,2025-01-15
+b4bc5e5b-18ed-4523-8346-629211fdd4b3,Jessica Melendez,"Average, nothing special.",3,2025-01-28
+1ed8620f-321e-4fc9-87a7-869a2c26734a,William Mills,"Very disappointed, poor design.",5,2025-01-04
+37b81f2d-74d2-4948-9645-dabf42c8ecc9,Matthew Nixon,"Terrible quality, broke quickly.",1,2025-01-28
+88f92edd-fa46-468f-8750-b4300842f7a1,Anthony King,"Great product, very useful!",2,2025-02-12
+26afadeb-dc2d-4378-a286-7ea2582b6e33,Gina Kent,"Great product, very useful!",3,2025-01-01
+cc8e59ae-74e7-4c51-9d0d-3237a09b9e07,James Cook,"Very disappointed, poor design.",2,2025-01-20
+275d345e-1bb2-4345-8aaf-9d6bf767f6e5,Devin Reed,Not worth the money.,1,2025-02-09
+f9039659-0a97-4280-be9a-01f62aa6be86,Amanda Mcdaniel,"Great product, very useful!",3,2025-01-09
+c9498bfa-a1f1-4924-95a3-b1e4ae34762c,Matthew Rodgers,Excellent service and fast delivery!,5,2025-02-01
+23340f92-8fbf-4139-99a3-4c35640f74c4,Stacy Ryan,Highly recommend this!,4,2025-01-16
+d5a247ff-f929-4502-9e83-83c659f5c5cd,Shelley Thompson,"Very disappointed, poor design.",5,2025-01-27
+715fcffe-32ca-4d32-bd79-3f6adabd2cf5,Cody Coleman,Not worth the money.,1,2025-01-08
+246c6308-79f4-488b-a711-33282964fdf4,Rhonda Collins,Highly recommend this!,3,2025-01-23
+dc44fdaa-9ae6-4b86-9286-cfcf76b62f66,Laura Kramer,Excellent service and fast delivery!,1,2025-01-12
+2a9ccb01-377e-4b80-a764-e37efd40967a,Charles Garner,Not worth the money.,1,2025-01-04
+0cc0b805-b571-4793-bb7f-c79902c81022,Leonard Cunningham,Not worth the money.,5,2025-01-24
+9885f627-374b-4765-ba33-783310e674c3,Matthew Mcdonald Jr.,Highly recommend this!,5,2025-02-13
+8bfda2ff-1e24-47b2-b33e-ce75653c2118,Joshua Petty,Not worth the money.,3,2025-02-18
+14d13761-f3bf-4e64-8f22-6170cac4d66b,Johnny Payne,Not worth the money.,3,2025-01-22
+d52a62ef-910b-404c-a98e-eff29d7d52e3,Elizabeth Carroll,Not worth the money.,4,2025-01-11
+8ac16437-f1f0-4547-b2e5-cfe659b3ab72,Courtney Rodriguez,"Terrible quality, broke quickly.",5,2025-02-01
+abff4227-9855-4f60-ab66-b3b48a136ad7,John Abbott,"Very disappointed, poor design.",2,2025-01-04
+1410444f-52a9-44a8-9010-52fc37963ea0,Frederick Arellano,Not worth the money.,3,2025-01-08
+06795c85-f772-4734-ad2e-0b59665db33d,Michael Peterson,"Very disappointed, poor design.",4,2025-01-26
+7bbbffd5-425d-4d03-8f3e-21f329cc34db,David Delgado,"Great product, very useful!",5,2025-02-09
+5503b2b3-a474-4763-85d4-4e5dec5444e9,Penny Rhodes,Excellent service and fast delivery!,5,2025-01-26
+e1e52037-18ef-4230-93cc-50d0e02f1cf3,Michelle Carter,Excellent service and fast delivery!,3,2025-02-13
+70c3abe7-1ac2-4409-8d40-75f2f6bcaa6a,Matthew Ford,"Average, nothing special.",1,2025-01-28
+05143c21-88d9-4752-8a45-4190c220180f,James Peterson,Highly recommend this!,2,2025-02-13
+28c0ca08-86f8-4770-9213-ca63e479ff34,Robert Adams,"Average, nothing special.",2,2025-02-18
+9c8b7776-5a57-4f2a-b6d6-9b4f06dd42a7,Heather Lane,"Very disappointed, poor design.",1,2025-01-17
+028eca4f-c916-48f2-b86b-b02174bbfffc,Anna Brady,"Terrible quality, broke quickly.",1,2025-01-26
+a7f293b0-a1ad-4fbb-af02-d277562eaf82,Charles Fleming,"Average, nothing special.",5,2025-01-18
+746fffb0-872b-4a48-8f52-19832a423840,Heather Schroeder,"Average, nothing special.",2,2025-01-21
+21165b4f-552b-4456-81e5-1d19056c63d9,Michele Higgins,Highly recommend this!,1,2025-02-16
+b7550f8d-196f-4481-b936-62d842a8c9a2,Jose Nichols,"Very disappointed, poor design.",3,2025-01-13
+43028399-5562-4bfd-8a3d-a73e917278a7,Angela Wright,Excellent service and fast delivery!,1,2025-01-04
+295bf861-10a2-41a5-b713-6c2bba9c92ce,Alan Morales,"Terrible quality, broke quickly.",1,2025-02-05
+87afd43f-022d-4db4-b7b4-1538e556ed04,Shannon Morgan,Not worth the money.,3,2025-01-03
+060010e2-dc5e-4f1b-a8a9-3c8ff7e06065,Carrie Drake,"Great product, very useful!",5,2025-01-20
+141209f9-cf11-4fed-b410-15d1c2d41e21,Annette Wright,Not worth the money.,5,2025-02-17
+d46cfeef-fe13-4070-981d-cbd6d0c3cbcb,Heather Smith,"Average, nothing special.",2,2025-01-04
+71103f0c-0b01-4d61-a9fa-d1bd4886dcb9,Michael Mitchell,"Very disappointed, poor design.",3,2025-01-09
+4a637f1c-bc0f-4f4f-8c32-77a0773928a7,Jennifer Hall,"Great product, very useful!",1,2025-01-08
+a72e991c-2cd9-4959-8466-99fb0d4f0b7e,Craig Rivers,"Great product, very useful!",2,2025-01-27
+092d921c-c835-4153-acd4-4f6ef6491637,Jessica Lane,Highly recommend this!,5,2025-01-30
+9fefb974-e129-4a39-a3eb-0f00cb180fde,Nathan Lowe,"Average, nothing special.",4,2025-01-19
+b4bff889-4138-400c-bd2c-415af4537e10,Alex Hull,Highly recommend this!,3,2025-01-17
+529d3fa6-b380-460c-b7d8-3972a3ef4c91,Mason Miles,"Terrible quality, broke quickly.",5,2025-01-19
+8abe6b88-4852-4a1f-b162-deeddde5c0e8,Cathy Lewis,"Great product, very useful!",4,2025-02-14
+4b249d4b-52fd-4cca-8fc6-08338627f888,Meredith Hickman,Excellent service and fast delivery!,5,2025-01-09
+3845adf9-d2aa-44cd-b60d-ee07f683d569,Andrew Hickman,"Great product, very useful!",4,2025-01-29
+5198f136-4b56-43d7-b5b2-4c5f6b2ca00e,Raymond Vega,Not worth the money.,5,2025-01-22
+cd35ffd8-ecb7-4539-a558-7ffdfa4c51ca,Jacob Holloway,Highly recommend this!,2,2025-02-10
+c48050d3-cd67-42c1-b718-fedef2b19ba8,Kendra Holder,Highly recommend this!,4,2025-01-07
+4ab777b8-3e21-44b1-a5e1-c5dff2163ff8,Deanna Smith,Highly recommend this!,2,2025-01-09
+14264a4c-97e4-47fb-830f-9f095121de7f,Hannah Bell,Highly recommend this!,5,2025-02-10
+af0cfac6-cb99-4c89-a3e6-dfb9d9e0dca7,Clarence Porter,Not worth the money.,3,2025-01-31
+d8e6095f-e13d-4fb3-83c3-431aff1e8da5,Erica Ellis,"Very disappointed, poor design.",1,2025-01-13
+7888453b-7fc5-4d03-86a6-de5916551596,Monica Warren,"Terrible quality, broke quickly.",3,2025-02-15
+829ebef1-ec4b-4ead-baa0-f33977b63a02,Melissa Moses,"Average, nothing special.",1,2025-01-31
+24a1553a-3204-429a-a05d-15692d270b0b,Kathleen Johnson,"Great product, very useful!",2,2025-02-15
+10b53c65-2b82-40ae-bc44-35705f3f62f0,Patricia Jones,Not worth the money.,5,2025-01-10
+9b73c92e-3cc8-46aa-b228-fccd72febaab,Alexis Russell,Excellent service and fast delivery!,5,2025-01-29
+d1873427-3a58-4e06-aacd-32951af13429,Jennifer Perry,"Average, nothing special.",5,2025-01-08
+16f77600-417e-4fc9-a018-50272da7aca4,Cynthia Johnson,Not worth the money.,2,2025-01-03
+6577c017-431d-4fe8-aaa1-e31b9c73e4a1,Larry Johnson,Not worth the money.,2,2025-01-07
+2917c454-df65-47c9-b7ef-575a6e0f8017,Daniel Shelton,Excellent service and fast delivery!,2,2025-01-18
+79ac1d3d-45c2-4dd0-a9af-e411e28a98f1,Jamie Newton,"Average, nothing special.",1,2025-02-05
+6387166a-afe6-4b6c-91db-e27995863fa7,Teresa Nguyen,"Great product, very useful!",4,2025-02-17
+cea71838-81ad-4e4f-a2b1-e14dad1a25d1,Nancy Shaffer,Highly recommend this!,2,2025-01-13
+19bf6b74-7224-45f4-be03-ab9db35131f4,Lisa Wilkerson,"Terrible quality, broke quickly.",4,2025-01-01
+992391be-bf74-41fa-8ba0-cfcac4164230,Eric Burch,Not worth the money.,2,2025-01-16
+7f77e73b-a27f-4bda-84f9-3ff2b6228ad6,Brandon Clayton,"Terrible quality, broke quickly.",2,2025-02-07
+6069f093-fda9-4629-99c2-491f25309d3d,Emily Vaughn,"Average, nothing special.",1,2025-02-16
+0f87797c-bc79-404b-8360-d0e19f1d847f,Thomas Arnold,"Great product, very useful!",5,2025-01-12
+e205b7f1-aa4f-4ffc-8ac4-e782c4f58ef6,Scott Tran,"Great product, very useful!",1,2025-01-05
+df098559-7337-4bb6-9860-f7db5cf2f1fd,Tara Gomez,Excellent service and fast delivery!,1,2025-01-19
+897a1562-9605-42a2-bb78-061b54a67c7c,Derek White,"Very disappointed, poor design.",2,2025-01-30
+ed6fbc0d-a683-41bd-ad17-79120efab978,Todd Myers,Excellent service and fast delivery!,1,2025-02-07
+1cb0a2f3-1a49-4e3c-901d-fba1877505dd,Clayton Morse,Excellent service and fast delivery!,1,2025-02-05
+2971b40f-c058-4d49-8b5e-4be4200563ba,Patrick Morgan,"Great product, very useful!",2,2025-01-14
+2aaf68c4-94d8-40ea-9b89-2e10c97ffc75,George Mullins,"Great product, very useful!",1,2025-01-06
+84549f21-b686-471b-8249-9e561f2c435d,David Hatfield,"Average, nothing special.",3,2025-02-09
+73138e0a-2a22-438c-ba91-298ce65787bd,Jose Young,"Very disappointed, poor design.",3,2025-02-04
+4bb4cd10-d0fb-4ffa-9096-e391f16d0750,David Sawyer,"Terrible quality, broke quickly.",3,2025-02-10
+cadcc48a-c263-4228-bc36-f56813615a7d,Aaron Weeks DVM,Excellent service and fast delivery!,1,2025-01-04
+baf330d0-265d-4941-b3bb-19f11e5550ce,Deborah Taylor,Highly recommend this!,4,2025-02-02
+ae4b3177-a6e1-46d8-aee5-cb66f684e1e0,John Vincent,Not worth the money.,1,2025-01-25
+628db63a-6ddf-44f2-bb11-60666dfdd18d,Jacob Kelly,"Great product, very useful!",3,2025-02-09
+57155d38-8886-4a09-af0c-6bce79779ef6,Dr. Marc Harvey,"Great product, very useful!",4,2025-02-02
+5e888e39-62a2-4eec-b898-e93318f29ce0,Thomas Thomas,"Terrible quality, broke quickly.",2,2025-02-05
+1cb20d09-7c33-4f41-9dc8-c531ecd14750,Holly Rowe,Excellent service and fast delivery!,4,2025-01-10
+faefeb14-f3e7-4321-85aa-21efd18b369e,Joseph Jones,Excellent service and fast delivery!,1,2025-01-06
+645a0ea0-63e3-40ea-a330-c44bf64ffe56,Kristina Ryan,"Very disappointed, poor design.",3,2025-01-15
+6d472c8d-fee1-4ec4-ae17-a18244b4b0db,Raymond Smith,"Average, nothing special.",4,2025-01-01
+8306a9bc-f905-4f0b-bb54-b5692401b6e8,Erik Smith,Excellent service and fast delivery!,1,2025-01-11
+be1c0304-d813-49f0-b6cc-49817d395bf4,Jennifer Allen,"Very disappointed, poor design.",5,2025-02-15
+0ec53b9a-c941-48d7-a563-072a2e9a7228,Michelle Preston,"Terrible quality, broke quickly.",4,2025-02-09
+3db3e8a6-d5eb-45e2-9a4b-b8da32460f39,Alexander Morris,Excellent service and fast delivery!,5,2025-01-05
+c79290d5-e011-4983-bd5f-7a3bc9005021,Alan Smith,"Terrible quality, broke quickly.",3,2025-01-14
+4178c544-fe93-4ca1-b08f-f9fb36cfbfac,Thomas Salinas,"Average, nothing special.",3,2025-01-07
+b2e21102-1c70-4f56-9f69-fce93bcd30bd,Tracy Miller,"Terrible quality, broke quickly.",3,2025-01-07
+9a8a698d-ffa8-41a0-b910-3524677830d8,Joshua French,"Very disappointed, poor design.",5,2025-01-18
+8e4c36fc-44cb-42af-a40c-545e8f52dfcb,John Watson,"Great product, very useful!",1,2025-01-11
+e13e9ef0-302c-43fc-8ebb-f019e6c841be,Lori Escobar,Not worth the money.,1,2025-01-26
+bd046288-caad-4f67-8578-3867b30ff51d,Matthew Park,"Great product, very useful!",3,2025-02-09
+f1cc19b2-8176-46e2-94bb-8941df2c1859,Timothy Jackson,Highly recommend this!,1,2025-02-18
+876cbf39-f1ba-4c9f-89ac-1b2d0405c69d,Kelly Smith,"Terrible quality, broke quickly.",2,2025-01-05
+f944306b-86fa-43ab-962a-d0db401eba29,Dr. Kevin Pena,"Terrible quality, broke quickly.",5,2025-02-02
+9762992d-e376-4c05-a089-48cc1ecd7046,Rachel Wu,Excellent service and fast delivery!,4,2025-01-05
+312ad1f2-0b65-4e38-b56f-2486e449919e,Vanessa Williams,"Great product, very useful!",5,2025-02-06
+2bdae593-2fd1-4c33-8fd0-59b980a095a6,Donald Torres,Highly recommend this!,2,2025-02-12
+c410a890-e422-4816-97bd-cae019cb6e04,Ashley Byrd,"Very disappointed, poor design.",4,2025-02-09
+9b88885b-4ed9-4b43-987c-b6a177c33f0b,Sarah Ewing,"Average, nothing special.",4,2025-01-13
+ea0052d9-ed1f-445b-8804-ab93cc85c65d,Tabitha Alvarez,Highly recommend this!,4,2025-01-11
+cbab3006-a797-4fb4-a686-fc7c288d204a,Lawrence Brown,"Very disappointed, poor design.",3,2025-02-10
+70b69aa5-d5e8-4210-8247-e180306e4bdb,Tammy Marquez,"Great product, very useful!",2,2025-01-30
+ca7d98ec-dfaf-4bc3-9ad7-06cf8348f074,Christopher Rogers MD,"Average, nothing special.",5,2025-02-03
+12db0d99-6566-4717-835d-696d3f09582c,Isaac Stephens,"Average, nothing special.",1,2025-02-12
+da25f3c9-82cf-429c-9304-d732dd8d34b9,Carrie Mccarthy,"Great product, very useful!",2,2025-01-02
+3dbfd9c0-1e5a-4637-bce6-6188bf1108a8,Tracey Lopez,"Average, nothing special.",5,2025-01-10
+78b5163e-a5fd-45fb-8019-7890119b1e71,Rachel Phillips,Not worth the money.,3,2025-02-13
+491d1804-1aa6-41d1-a4c5-df1faf4edda1,Stephanie Nelson,Highly recommend this!,2,2025-01-13
+c15d0bd2-68d3-4533-90ac-27fa422c4e10,Todd Watson,"Terrible quality, broke quickly.",4,2025-01-29
+4a568051-f2b9-4034-9b69-dbe752412910,Lindsey Terry,"Very disappointed, poor design.",2,2025-01-13
+61193905-37bf-43a8-a6ac-9346d571d600,Mary Moran,Highly recommend this!,4,2025-02-17
+9eb6f51b-b99d-49f3-a155-137840cfc99f,Colin Carter,Highly recommend this!,1,2025-02-13
+50af4368-39bb-4d3c-868c-d5df281596b6,Michael Williams,"Great product, very useful!",5,2025-01-14
+dbe9bf00-3855-4f11-b97f-46d11194f56b,Bobby Santiago,Highly recommend this!,2,2025-01-29
+22be50d0-dc78-4638-8ba2-04ca78c8328c,Courtney Gibbs,Excellent service and fast delivery!,4,2025-01-11
+57f23501-9d9e-41b8-8d60-b33c4daae519,Brittney Foster,"Terrible quality, broke quickly.",4,2025-02-14
+da70e533-c73e-40e1-8f79-90fe23da2b0c,Nancy Smith,Not worth the money.,4,2025-01-14
+7babc75c-3240-4963-ba95-4de9ec6e75bb,Lori Callahan,"Terrible quality, broke quickly.",4,2025-01-29
+5d07dff3-e5b5-4e5a-a7c3-a23d462f42fe,Kevin Dawson,"Average, nothing special.",3,2025-02-17
+4c0f01ca-f133-46a1-b5fe-2041281ebab2,Brittney Fletcher,"Average, nothing special.",1,2025-01-10
+6a93f5c2-7513-4f84-b232-3e8fd1c58d10,Thomas Singleton,"Terrible quality, broke quickly.",2,2025-02-04
+0cf49cbb-798c-4f3e-a53a-f6ad6d17f17a,James Black,Excellent service and fast delivery!,1,2025-01-14
+c4b65ef9-b62c-4da6-96f6-cfcfb71c0a71,Michael Wilson,Highly recommend this!,4,2025-01-08
+72c9f1e0-ed55-4665-b898-aa2e363643bc,Mary Sutton,Excellent service and fast delivery!,3,2025-01-30
+de05484f-ad13-449c-813d-a36501ee0c3a,Kristin Morton,Not worth the money.,5,2025-02-15
+733e9dc7-3ba7-4e5d-a661-d7f0bb1e8e7c,Brian Garcia,"Terrible quality, broke quickly.",5,2025-02-10
+fedd2ac5-9448-4722-aa7e-019d311afde0,Richard Mckenzie,"Very disappointed, poor design.",2,2025-01-24
+035c0418-d7b5-4a09-999b-262fb5263435,Sean Hoffman,Highly recommend this!,1,2025-01-03
+e365e6b6-e362-40f9-864b-0e96498f56ec,Harold Fox,"Very disappointed, poor design.",1,2025-02-04
+179666d1-c9ef-4f7f-a8cf-f4f6eebee93e,Carolyn Adams,"Great product, very useful!",5,2025-02-12
+dc79ca58-2eba-47fa-bb2f-bb6e09770281,Nathaniel Warner,Highly recommend this!,1,2025-01-21
+d190a57d-966a-4567-b8e9-9e8c56f0dbcb,Lori Nguyen,Highly recommend this!,2,2025-01-20
+d31f1955-845f-4ac4-83ce-536e22bd61e1,Cynthia Lane,"Great product, very useful!",3,2025-02-07
+3f9dcd03-822f-428b-9d71-037c303e1a70,Gary Adams,"Average, nothing special.",5,2025-01-07
+e5abcf9f-4fc3-42dd-bdcb-ff4a433b48c6,Susan Stout,"Very disappointed, poor design.",4,2025-01-25
+69c59be8-7c2a-4804-bd67-34f7216178da,Teresa Stewart,"Very disappointed, poor design.",3,2025-02-09
+43da2af6-48d3-448e-a561-31430c45f671,Sarah Parker,"Terrible quality, broke quickly.",1,2025-01-14
+4c84c8da-81be-4cd5-8789-a115d55bb641,Martha Matthews,Excellent service and fast delivery!,4,2025-01-07
+d9bef525-1876-4020-b82b-d3f3f79c047c,Sarah Harper,Not worth the money.,3,2025-01-25
+c594219a-e0b6-4bff-acc9-f3d9cfbc6fbb,Samuel Cervantes,"Terrible quality, broke quickly.",1,2025-02-05
+8ad7c712-2c09-499c-9d9b-0c4800853f6a,John Murillo,"Great product, very useful!",3,2025-02-10
+101b9314-92e8-4835-9c50-e7b25dac635d,William Johnson,"Very disappointed, poor design.",5,2025-01-03
+9edbafc5-3b19-431a-9d7b-820b25e4d796,John Rodriguez,"Terrible quality, broke quickly.",5,2025-01-31
+ce2b8365-8e0a-4e71-acee-2be6e4bec6ac,David Weaver,"Terrible quality, broke quickly.",3,2025-01-04
+6ea15b70-7cc5-4888-9f81-ccee68b99a0b,Rachel Sosa,Not worth the money.,4,2025-01-07
+310190d7-0f36-408d-b9a4-f7c4638e3fab,Joseph Bryant,"Average, nothing special.",1,2025-02-06
+22af3ecc-1624-4f00-8860-07dd7c0aaf94,Jason Carter,Excellent service and fast delivery!,1,2025-02-17
+5b0d15d0-6a5d-404b-8e22-645a650a18c0,Erica Diaz,"Very disappointed, poor design.",3,2025-01-15
+01db811e-38cf-42a6-ab12-fbd93932e734,Melissa Bennett,"Average, nothing special.",5,2025-01-18
+7f0f720e-cca5-4dfb-b486-e729f9ad4bf5,Barbara Mays,"Great product, very useful!",5,2025-01-08
+d55ab52f-6190-46cf-b8c5-117dfc214ecf,Andrea Hurst,"Average, nothing special.",1,2025-01-19
+68b3df63-2483-4ade-a508-8e962b653b9d,William Weber,Excellent service and fast delivery!,4,2025-01-15
+c9f24579-9e5e-4937-a19d-afba849878df,Melissa Williams,"Very disappointed, poor design.",2,2025-02-16
+8d2956c2-dc2f-4893-b679-8b54610c1538,Kenneth Best,"Very disappointed, poor design.",5,2025-02-06
+cf5eb656-c539-4392-b759-e8f2e5346381,Shawn Collins,Excellent service and fast delivery!,2,2025-01-26
+d99e3ba6-9b9c-4649-94bb-0b805a1147bd,Cody Gates,Not worth the money.,4,2025-01-20
+7d5b9fbe-eb7d-40f8-9721-90104f974bc5,Megan Smith,Highly recommend this!,3,2025-01-30
+96247120-01f4-410a-9a02-11201710dc43,Marissa Shaw,"Average, nothing special.",1,2025-02-02
+dd7ce141-7a49-4e56-9454-d068bf909fd2,Tyler Lopez,"Terrible quality, broke quickly.",2,2025-02-12
+6ee62113-da7e-4cfa-9dd2-0d3246dd86c8,Nicholas Steele,"Terrible quality, broke quickly.",1,2025-01-24
+8721f25c-85e4-468a-b735-3b295e655794,Dean Gomez,"Average, nothing special.",4,2025-02-01
+fa7c4e45-d7f3-403f-8b87-ba933469fd0b,Ashley Johnson DVM,Highly recommend this!,5,2025-01-15
+e25c47e3-62dc-4fa1-a9c3-8bd91a318d17,Noah Dorsey,"Very disappointed, poor design.",1,2025-02-11
+e5207016-01fa-4130-9ca0-c662bfb96bd4,Mark Johnson,Not worth the money.,1,2025-02-03
+f82f82b9-0de1-43b3-8413-365db07c0912,Brenda Stein,"Great product, very useful!",5,2025-01-06
+1f738a0b-d6c4-4676-8c0d-85bcb8ace452,Stephanie White,"Great product, very useful!",3,2025-02-02
+57179b60-96c7-4d4e-9a69-0b006e48e985,Dana Potter,Not worth the money.,5,2025-01-07
+0baf20f1-6b4e-41d9-8a75-d6ac4b1f310b,James Stone,"Terrible quality, broke quickly.",5,2025-01-08
+8020d7c6-3ec0-40ce-b77e-fe7dd70415f4,Andrew Andrews,Highly recommend this!,4,2025-01-06
+772a6842-d050-4628-964b-46d40d15a483,Ronald Jones,Not worth the money.,1,2025-01-31
+09f50308-1bc4-493e-acb4-1171347dd2c4,Kara Martinez,"Average, nothing special.",3,2025-01-31
+c2e7eae7-cd2d-442c-a55e-b5dd4298e88d,Alexandra Bean,"Terrible quality, broke quickly.",5,2025-01-09
+d139e46a-bcf5-4a03-9312-b42dd0c772de,David Webb,Excellent service and fast delivery!,3,2025-02-17
+e7ebe1fa-2ee9-4aea-8ef0-fa4a365fb32a,James Rodgers,Highly recommend this!,5,2025-02-09
+c84cd69f-cf6e-47e3-8266-eebde7a0db18,Jane Baker,"Very disappointed, poor design.",4,2025-02-11
+21c7edeb-7de0-467f-816f-e2cffc93ae68,Rhonda Jackson,"Average, nothing special.",4,2025-01-06
+bdc934cd-5295-4dc9-8488-122419fcbc43,Jennifer Thornton,"Terrible quality, broke quickly.",5,2025-02-13
+05abaa40-2f43-442c-bd5d-9682fefb0391,Pamela Schroeder,"Terrible quality, broke quickly.",3,2025-02-15
+df0710b1-c370-4435-9757-b4395932d851,Rodney Dickson,"Terrible quality, broke quickly.",2,2025-01-27
+99cbc3e7-a7c4-45a4-8370-043824b8a13b,Catherine Anderson,Excellent service and fast delivery!,3,2025-01-16
+ee8b8d93-beb1-4f7f-baf0-e77fab557994,Scott Davis,Not worth the money.,2,2025-02-05
+d29f26db-1618-4d29-a559-d221d0b59c56,Elizabeth Ramirez,Highly recommend this!,3,2025-01-19
+56a6718d-56e5-45ed-8e16-308fd55e05de,Austin Russell,Not worth the money.,4,2025-01-16
+16dc7ea4-7368-4b80-9a81-d91ab707b02e,Steven Lane,"Great product, very useful!",5,2025-02-16
+3d1a1c9a-8452-4255-bb02-db3829acd475,Christina Walters,Highly recommend this!,3,2025-01-13
+7fa6e810-f8d8-451f-969d-205610940485,Daryl Garcia,"Average, nothing special.",5,2025-02-11
+1450c692-19a1-4ec7-bcf7-b8f44d0f74ad,Joseph Vasquez,"Great product, very useful!",2,2025-02-01
+d9d48e81-2e05-4167-943a-8b6fe384038b,Jenny Mcintosh,"Average, nothing special.",3,2025-01-14
+b5e5c098-843a-47cc-9490-d51b87ed104a,James Gibbs,"Terrible quality, broke quickly.",2,2025-01-14
+ac47a0aa-e9ad-42ea-87fc-0b9f51f77630,Bridget Hurley,Not worth the money.,5,2025-02-10
+117152c3-1f0a-4180-b5d8-ffa2c08cbffd,Karen Stephenson,"Very disappointed, poor design.",4,2025-01-18
+2d96cefe-c5ed-4465-9f2c-439797918d68,Angela Gutierrez,"Very disappointed, poor design.",5,2025-01-07
+f026f5da-f619-486e-825c-29c7b6de17bf,Chloe Smith,Not worth the money.,3,2025-01-06
+bac1d5cb-7baa-43a6-9f0d-aac563e1b0d9,Rachel Hubbard,Highly recommend this!,1,2025-01-29
+1fa5a8da-94b5-4f11-9aa8-71afe3d3d039,Alyssa Mccarty,"Terrible quality, broke quickly.",5,2025-02-14
+9ad2ee68-899f-4efb-8b96-a8fbe19b2025,Robert Ayers,"Terrible quality, broke quickly.",3,2025-01-08
+541e11d0-5b1b-42b3-8907-6a1861f3bc5b,Jason Allison,"Terrible quality, broke quickly.",4,2025-01-06
+c9da2f95-a079-468c-9c58-f5f3d862639b,Kim Bautista,"Very disappointed, poor design.",2,2025-02-17
+d3441f35-c4b3-4be4-94f4-865c6145632f,Carolyn Wright,Not worth the money.,2,2025-01-28
+489c57b7-a839-4f2d-baf8-6d4781989021,Tiffany Larsen,Not worth the money.,3,2025-01-10
+76de348e-a840-415d-84b2-8ec576bded88,Karen Martin,"Great product, very useful!",5,2025-01-31
+8bdf052c-d2d2-47a9-8e95-895852632165,Alexander Clark,Highly recommend this!,5,2025-02-16
+5fdfc581-5678-4538-87c0-90ff99e32190,Michael Brooks,Not worth the money.,1,2025-01-15
+020a69d4-f348-4cde-8479-a5ff1be2371c,Jennifer Smith,Excellent service and fast delivery!,3,2025-01-16
+e5b6de00-3d0a-4175-89ae-669ea632a93f,Stacey Shelton,Not worth the money.,1,2025-02-16
+6eeb00ca-e5c7-4393-90d2-3179d8bc6e73,Stephanie Perry,Excellent service and fast delivery!,1,2025-01-27
+c25a778c-14d6-43c8-b6e6-8d66cc249099,Jamie Bond,"Average, nothing special.",4,2025-02-04
+63f3aff6-f93d-4d86-ac17-afb1c5868763,John Lyons,"Terrible quality, broke quickly.",2,2025-02-01
+c3a80395-8494-49b2-a1e7-4ca7f23b259d,John Vega,Excellent service and fast delivery!,1,2025-01-03
+707a2e59-a12b-4ce6-afe5-42ce83358e18,Jennifer Garcia,"Great product, very useful!",2,2025-01-22
+243f48a3-c79d-48fd-8012-31968063b0d1,William Riley,Highly recommend this!,3,2025-01-04
+92c9f83d-72c0-4624-837e-a9d392671870,Karen Hernandez,"Average, nothing special.",3,2025-02-10
+478fb758-bee3-4e1a-8930-f34ec3077b5f,Jacob Stevens,"Great product, very useful!",5,2025-01-26
+3fefc92a-a706-49ac-9269-e9a75a4e5b84,Victor Larson,Excellent service and fast delivery!,5,2025-02-03
+f7960993-c3a5-47f1-a0dc-6778179cfbec,Traci Frost DVM,Highly recommend this!,4,2025-02-01
+9fdc37c7-f80a-44d0-b55b-b1c77c8965ad,Claudia Levine,"Terrible quality, broke quickly.",1,2025-01-13
+610612ca-7055-4507-ab4f-0efc03e54582,Ariana Cline,"Terrible quality, broke quickly.",1,2025-01-29
+215b2084-f8ae-48ed-b76a-1a19f5220e51,Daniel Greene,Not worth the money.,4,2025-02-12
+cfb0bfc9-5474-4363-bbb7-aefcf99cd265,Max Morrow,Highly recommend this!,2,2025-02-13
+9141769c-6dac-47a2-9470-9b76bac86ecf,Meredith Tapia,Highly recommend this!,4,2025-01-14
+e50ff02f-963c-484d-9838-60140b8dc04f,Eric Willis,Highly recommend this!,3,2025-01-09
+27e33766-a5d1-4c6a-8efc-d435fb41685d,Andrew Nguyen,"Average, nothing special.",2,2025-02-17
+426aaeb1-0cca-4135-aa8e-aa4aec82bc39,William Hodge,"Very disappointed, poor design.",2,2025-01-17
+7556e320-3258-4866-81d1-e3116217f548,Sarah Henry,Not worth the money.,4,2025-01-06
+4c71d9b3-3bfc-41fa-b910-207bc8121bbc,Rickey Tran,"Average, nothing special.",1,2025-02-07
+e669705d-3d6f-4cd4-92b9-6113ecbc03f6,Lonnie Harris DVM,Not worth the money.,3,2025-01-22
+3008ae53-442e-4a63-9a65-a6b71f38b3c9,Brooke Hernandez,"Average, nothing special.",3,2025-02-09
+58ecf342-1aa9-4471-8075-342ff2390e9d,Stephanie Perez,"Very disappointed, poor design.",2,2025-02-14
+b930394b-f89d-40f7-9a91-fa63939f452c,Kathleen Walker,Highly recommend this!,4,2025-01-08
+a678b67c-db81-495b-938f-7991b178fe33,Kim Jacobs,Highly recommend this!,5,2025-02-09
+e08216ef-4ccc-4084-8431-6d7171704a8b,John Strickland,"Very disappointed, poor design.",1,2025-02-11
+b6c28742-7ecb-4045-b306-f82991be2f46,Debra Robinson DVM,Excellent service and fast delivery!,4,2025-01-04
+d4af75a4-e8d7-4510-abe5-5b2915d44b62,Angela Bell,"Great product, very useful!",2,2025-01-12
+6400d038-bfd8-4059-a845-84096e7e4fe4,Jacqueline Berry,Not worth the money.,1,2025-01-10
+69d847da-1847-4ccb-be25-c334c46d1416,James Walls,Excellent service and fast delivery!,5,2025-01-24
+bd037c8a-3c85-44a1-9c29-f1f4f027dd13,Christopher Peterson,Excellent service and fast delivery!,3,2025-01-01
+b702dd56-25d7-4723-86f3-f70a029326b7,Jennifer Zhang PhD,"Average, nothing special.",5,2025-01-04
+03dd7e5e-5c79-4605-bc21-937f8d1bab20,Maria Bennett PhD,"Average, nothing special.",3,2025-02-06
+57524f30-a975-404f-81c8-ca5668899b76,Sarah Scott,"Average, nothing special.",5,2025-01-10
+13e5a651-88a8-4c36-b82b-d3b425241469,Derrick Wu,"Great product, very useful!",3,2025-01-10
+96c9e714-4ca2-4c20-b2ac-f22b80eead69,Christine Horn,"Terrible quality, broke quickly.",1,2025-02-18
+9f544443-5413-43b5-9faa-290debe023fb,Jay Osborne,"Terrible quality, broke quickly.",1,2025-02-14
+b97cae74-b6fa-42a9-8e1c-1912171485ec,Robert Camacho,Highly recommend this!,1,2025-02-15
+382a7345-b639-4043-94b5-a473cc6b6617,Joseph Vaughn,Highly recommend this!,4,2025-02-05
+39ba01c9-adf6-4d78-b959-8bbec77ab895,Danny Garcia,"Average, nothing special.",4,2025-02-05
+a0ce2478-859e-4b88-b1eb-4ff269a4278f,Raymond Andrews,"Average, nothing special.",4,2025-01-12
+76fbf835-aa11-49b9-b0f2-3dfefc165fe0,Megan Bailey,"Average, nothing special.",4,2025-01-10
+a7bba973-c8d6-4165-978c-1dce3ffff815,Micheal Rodriguez,Not worth the money.,2,2025-02-16
+5bda250c-86b8-420f-8753-2478a7f7a60e,Matthew Fry,"Great product, very useful!",2,2025-01-28
+c484d5ac-6c9c-409f-9ba1-18260e82d6bc,Joe Martinez,Highly recommend this!,2,2025-02-13
+0f44c00a-5149-4c2c-9453-7bba129c111d,Todd Baker,"Average, nothing special.",5,2025-01-07
+9a0ab102-6140-4229-9703-304b25a1f05c,Randall Villanueva,Excellent service and fast delivery!,3,2025-02-08
+84712dd1-fe54-4aaa-8235-635af15c6941,Nancy Herrera,"Average, nothing special.",2,2025-01-11
+f0449c6f-d3be-44d6-96d3-aec1fc69395a,Rebecca Hall,"Great product, very useful!",2,2025-01-10
+1f712f1a-cc2f-45ed-a319-a1229eedc58b,Robert Reeves,"Terrible quality, broke quickly.",4,2025-02-16
+93092b18-6a48-4d82-b95a-91f229bec50a,Peggy Williams,Not worth the money.,2,2025-02-08
+cdf3ed1d-72a1-49d1-bc28-d0654a479eab,Diana Dennis,"Terrible quality, broke quickly.",1,2025-02-11
+73677df6-8382-4064-b230-889222f1147f,Angela Huang,"Great product, very useful!",1,2025-02-13
+5bdb7838-1eef-4c91-8e49-38d8e935d805,Kristina Parker,Excellent service and fast delivery!,5,2025-01-31
+5f1c5fa6-f445-408f-806a-c9312070b004,Hector Stewart,Highly recommend this!,4,2025-02-17
+a6c2f438-9b20-4f5c-a43b-be7c0512eefa,Joshua Lutz,Excellent service and fast delivery!,1,2025-01-19
+7412f322-d858-4960-a9b2-4766fc29895e,Randy Smith,"Terrible quality, broke quickly.",4,2025-01-25
+9bb4218d-72cf-4f76-8dcc-31c2cc8fc707,Michael Roman,Excellent service and fast delivery!,2,2025-01-31
+2ab01063-ffec-4015-97c0-0cb35e8e4aff,Michelle Stephens,Excellent service and fast delivery!,1,2025-01-22
+a8d34247-57dc-4e52-9519-067dfcadf033,Natalie Todd,Not worth the money.,1,2025-01-07
+68e61527-a330-4e2d-8234-e3020ae3c3a8,James Graham,"Great product, very useful!",3,2025-01-27
+49ed8149-9765-4285-a414-eb4ba9fb8984,Amy Tate,Excellent service and fast delivery!,5,2025-01-15
+66c18c83-2456-448c-9916-08135f103f19,Michael Pineda,Not worth the money.,5,2025-01-29
+c0f67394-9c88-450d-945b-ae3f9fa2a450,Erica Coleman,"Great product, very useful!",5,2025-02-17
+5810c28b-0665-4423-9da8-8ae57a2d96ca,Andrew Curtis,Excellent service and fast delivery!,2,2025-01-09
+74c0ac2a-8656-47d4-9c5a-dcb00814ec75,Janet Rodriguez,Highly recommend this!,1,2025-01-04
+dcbbb069-a666-4d0a-8c90-d15ca3d6c472,Sandra Morgan,"Average, nothing special.",4,2025-02-06
+f7c78c5a-2f2e-41f5-9ec7-dc9b527c5552,Shelby Sanders,"Very disappointed, poor design.",1,2025-02-06
+1145548d-9cf1-4a12-a7dd-1da16eedc4b2,Amber Phillips,Excellent service and fast delivery!,3,2025-02-03
+1695da35-c6d4-4c55-b538-8613eafbd44e,David Garza,"Average, nothing special.",3,2025-01-12
+0797bd13-7a70-48ab-a301-9d0228ca2703,Gina Alvarez,"Great product, very useful!",1,2025-01-17
+ab50db44-df92-4117-bcaf-82def86a68a3,Karla Johnson,Not worth the money.,1,2025-02-07
+9f676b22-9840-4632-b556-9e2e892280b2,Cheryl Brooks,Not worth the money.,2,2025-01-27
+107390f9-10e1-4d3b-9167-4fa1c428febc,Heather Brown MD,Highly recommend this!,1,2025-01-15
+2be4ab40-3cb4-402b-96fe-78dcd626b107,Kellie Ward,Highly recommend this!,4,2025-02-09
+41300fc5-0855-471c-ad27-14fcc09137cb,Aaron Riggs,"Very disappointed, poor design.",3,2025-01-31
+9362f0a7-9598-4152-a0d0-0bc8ad252653,Brandon Gonzalez,Not worth the money.,3,2025-02-12
+18bbb217-14d7-4472-b6a7-37d45d701925,James King,Highly recommend this!,5,2025-01-16
+11ee8c47-6268-414e-91ff-535247ed40fa,Shane Jacobson,Excellent service and fast delivery!,3,2025-02-08
+bdd4ca78-23f9-43ea-9dbb-ef3d0c306951,Brittany Johnson,"Average, nothing special.",3,2025-01-21
+15e4d8ae-0d8c-44df-8ca8-24b77b19a999,Aaron White MD,"Terrible quality, broke quickly.",4,2025-01-27
+bc59a1ec-4456-4bfc-8443-01a7e0ef35be,Jeremy Williams,Not worth the money.,1,2025-01-12
+c4980ed5-85db-4412-a668-c8edd1ea2dbb,Sara Rich,Excellent service and fast delivery!,3,2025-02-12
+f648825a-58fb-45b1-ae2a-255d0c11d15b,Dana Sanchez,"Average, nothing special.",2,2025-02-11
+2de222b5-b555-4853-a1e6-ba2fc485d9ac,Christine Patterson DDS,Excellent service and fast delivery!,4,2025-02-07
+c01822d4-cdd6-48e4-ba62-948b2c8dda14,Stephanie Peters,"Very disappointed, poor design.",1,2025-02-01
+b517fef8-daad-4320-b443-b47a1e6d0f08,Trevor Long,"Terrible quality, broke quickly.",1,2025-01-30
+b7b2fee4-2d86-44cb-b47a-73c7430017e1,Matthew Mendoza,"Great product, very useful!",2,2025-01-30
+44c907e9-95e3-43a7-b1e1-cc55f08191d7,Alan Patrick,Highly recommend this!,1,2025-01-25
+f54217ee-4c86-4405-b99c-b624c31a2dc9,Ronald Nelson,Not worth the money.,5,2025-01-20
+4a90c627-9ead-471c-86fb-d2d76029e092,William Sullivan,Not worth the money.,3,2025-01-14
+1ca68635-82f8-4372-8df0-a73dacc721c5,Mark Espinoza,"Very disappointed, poor design.",2,2025-01-16
+06d5fa4c-e532-4f8f-b476-fe439a460a0e,Madison White MD,Highly recommend this!,2,2025-01-31
+1e763e98-4bd1-4968-bcd2-46deedab0b50,James Burns,Excellent service and fast delivery!,2,2025-02-03
+1f4c7e25-aaae-439e-9382-8d8fc7a4d1aa,John Williams,"Average, nothing special.",5,2025-01-31
+79502edd-64bb-44d7-8ff3-7fd2a4477efd,David Irwin,"Terrible quality, broke quickly.",1,2025-02-06
+724fbdaf-82ff-457a-83b1-5d6a0d588e6d,Catherine Fisher,Highly recommend this!,1,2025-01-02
+fb23f6c7-db20-4674-a090-ded7e579c120,Paul Ford MD,Excellent service and fast delivery!,5,2025-02-08
+56d8bd4c-ddad-4e8e-882d-f812e7a727b9,Cynthia Bryan,Highly recommend this!,4,2025-01-15
+2b84c51a-1a82-4a70-a8f0-29484a34c7a2,Cynthia Taylor,"Terrible quality, broke quickly.",3,2025-01-03
+b0d76c75-37b3-4a1c-a07f-467ec2c2db39,Mary Rios,"Average, nothing special.",1,2025-02-06
+9b4631d2-2df8-484e-92e3-6607a7041063,Randall Parker,Excellent service and fast delivery!,4,2025-02-14
+fbb5d352-d1ad-41f8-80bf-50c3e215e577,Tina White,"Very disappointed, poor design.",3,2025-01-02
+688bcb9b-1735-48c5-b44e-c9d6379ed332,Rebecca Scott,"Terrible quality, broke quickly.",1,2025-02-15
+53a295cd-7276-440c-9292-21fc38214b36,Thomas Brown,"Average, nothing special.",2,2025-01-14
+2786b226-d804-469e-8132-053b17cb2790,Brett Clark,"Terrible quality, broke quickly.",1,2025-01-13
+ebaa6ae6-29b3-4e57-8c0e-42d5479172c5,Kimberly Davis,"Average, nothing special.",1,2025-01-15
+a994c70d-2498-4a47-b2c7-63f0dcb65bce,Angela Wade,"Terrible quality, broke quickly.",4,2025-02-12
+5e86bcbc-9b2e-4087-a0a6-cc99cd5e889a,Victoria Mullins MD,Highly recommend this!,4,2025-01-02
+b4a94c87-adcd-4319-97d2-ba6b160e614a,Stephanie Hernandez,"Average, nothing special.",4,2025-02-14
+3ce07666-609f-42c8-9480-2239d3acc060,Rebecca Oconnor,Not worth the money.,5,2025-01-07
+3e35ff4c-b381-48a2-824a-8c5c486ef69a,Crystal Baldwin,"Terrible quality, broke quickly.",3,2025-01-21
+4337bcb4-3f1f-4ae4-b2b7-ec8058a34d74,Vicki Flynn,"Average, nothing special.",1,2025-01-22
+bf7fe4f6-51b2-4d56-8080-e4642ddd2e6b,Wendy Leonard,"Very disappointed, poor design.",4,2025-02-02
+1d1553ff-521b-4eb6-9f47-7ccfd6345ad2,David Richards,"Terrible quality, broke quickly.",1,2025-01-12
+641c48f8-7883-4b73-a8e4-8d5543cfe053,Lisa Peters,"Terrible quality, broke quickly.",2,2025-02-11
+c31d8a88-f63f-40da-8ed7-f22ad71a821b,Jasmine Ward,Excellent service and fast delivery!,4,2025-01-04
+6d0ee009-ce71-418f-b5e8-b31d204336ee,William Clark,"Great product, very useful!",5,2025-01-02
+1f7d17a2-8eba-4c60-a171-c9b4bbfae265,Kimberly Villarreal,Highly recommend this!,5,2025-02-01
+53768e6f-c61f-401e-82c7-59c69b911a2c,Mark Terry Jr.,"Very disappointed, poor design.",1,2025-01-15
+2c625d32-d81c-4e05-be71-fc5f7345cf9d,Jennifer Hall,"Terrible quality, broke quickly.",1,2025-01-24
+6113bb69-309e-40ee-a263-928df22f4956,Donald Ellison,"Terrible quality, broke quickly.",3,2025-02-01
+b87fc860-82c9-4b23-9b8e-78487c18dadc,Kenneth Bryan,"Average, nothing special.",5,2025-01-07
+6575b0af-f025-4f89-a612-649ce1d13030,David Gamble,"Average, nothing special.",2,2025-01-18
+bd61bd70-b7ab-4f4b-850f-1ce7b3c06760,Cody Blevins,Not worth the money.,1,2025-01-20
+c836f701-d592-49e0-b32e-0042c16bca78,Amy Moore,"Very disappointed, poor design.",5,2025-02-03
+29845618-3930-4649-a17d-c9be8a3d9df4,Kimberly Tapia,"Average, nothing special.",5,2025-02-03
+d98524af-42b0-494e-9a9f-408cfc5e413a,Andrea Adams,Highly recommend this!,3,2025-01-19
+0b3cb225-b12f-475d-8720-f5cb5f34f0c0,John Stanley,"Very disappointed, poor design.",1,2025-02-02
+47501c00-addd-47fd-b228-90604c845b11,Carla Espinoza,Excellent service and fast delivery!,2,2025-02-07
+7d03b4f4-4e2b-4d81-97e9-fc20c97ea523,Cynthia Lewis,"Terrible quality, broke quickly.",3,2025-01-23
+4586e142-e869-4f96-ad6d-594dad73752b,James Bowen,"Very disappointed, poor design.",3,2025-01-15
+eef1c5d7-a9be-4be3-afae-4c23625de7c0,Gregory Berry,Highly recommend this!,1,2025-01-26
+3d480954-8a50-4cc8-846d-c9e805bbeebb,Tammy Dominguez,"Average, nothing special.",4,2025-01-17
+b195d5fb-9355-4726-b17b-f69c1e21911b,Shawn Russell,Highly recommend this!,2,2025-01-14
+a9ebe71a-963d-4a47-a635-3e0c4a6398e0,Dana Calderon,Not worth the money.,4,2025-02-03
+37567f93-95b7-4dc6-9972-95051c726991,Patrick Taylor,"Average, nothing special.",4,2025-02-18
+a7525c45-91b3-4310-af8c-2d93f2c3876a,Alex Mcbride,Excellent service and fast delivery!,2,2025-02-16
+ab3880de-a9a9-43b9-a74b-63619945f83e,John Becker,"Great product, very useful!",5,2025-01-02
+73bb8ab5-9638-436c-8f26-626754acbe62,Devon Williams MD,Highly recommend this!,1,2025-01-13
+c5aee0f6-eb53-4b36-a9b1-1572e2d36c46,Gregory Sweeney,Highly recommend this!,2,2025-01-01
+d1ddc93a-ef21-49ed-b40b-4ffd36192d3c,Amanda Dawson,"Very disappointed, poor design.",4,2025-02-03
+f9395f1c-eaac-4e3e-9e89-a26c0282d372,Hannah Sutton,"Terrible quality, broke quickly.",5,2025-01-27
+105cd73d-7524-464c-b41d-0a50ff2069ae,William Phelps,Excellent service and fast delivery!,4,2025-02-07
+441ea047-b6f0-4aaa-8565-da8752340d74,Ann Romero,"Very disappointed, poor design.",2,2025-01-09
+16348bdd-512c-4fa1-85b1-f02c786aeb87,John Blair,"Average, nothing special.",5,2025-01-30
+9010394b-1af6-4fd1-9e64-69c874602745,Madeline Turner,Highly recommend this!,3,2025-01-05
+372af328-4ac2-4fa9-a760-97f64baddafe,Marissa Palmer,Not worth the money.,4,2025-02-02
+57d1314e-f9c3-4d93-9085-86d96a194714,Scott Gordon,"Very disappointed, poor design.",3,2025-01-17
+4b76291d-4683-4b86-9041-f2ec8c279852,Andrew James,"Terrible quality, broke quickly.",5,2025-01-11
+48fa95ec-4547-4cbd-8e1a-96fd05254896,John Fleming,Not worth the money.,2,2025-02-02
+0451b4cd-0cf3-49c5-ad2d-d2926bac6c57,David Clark,Not worth the money.,2,2025-01-19
+e5d34285-38b8-43d0-bddb-471a76b35c93,Lauren Perry,Excellent service and fast delivery!,1,2025-01-15
+9d628c7d-0851-438c-8b3b-39a372365e3e,Andrew Berger,Not worth the money.,4,2025-02-11
+ff83b7a2-b1f3-47ff-802f-42d8514a9bb3,Nancy Brady,"Great product, very useful!",5,2025-01-30
+52c631eb-dd59-4f50-b1c3-f152e4a72055,Joseph Johnson,"Terrible quality, broke quickly.",4,2025-02-14
+382c49af-0bf4-4b06-b962-da92cd1e9596,Crystal Smith,"Great product, very useful!",4,2025-02-10
+e533a9c4-e12a-44ac-9827-50d54a4a0e00,Angela David,"Terrible quality, broke quickly.",3,2025-01-04
+ea2cf707-f23d-4a78-bb1d-b8fa76e7766a,Ryan Hughes,Highly recommend this!,3,2025-01-11
+45000b06-f560-4816-a9d7-fa8534252961,Samuel Weeks,Excellent service and fast delivery!,5,2025-02-04
+b4d8a51f-0461-4377-beb5-c8f42fa703b1,Cheryl Williams,"Very disappointed, poor design.",2,2025-02-06
+0b5d52f0-a469-4c8a-8081-ef886152619e,Andrew Butler,"Average, nothing special.",5,2025-01-28
+5596e02b-ad21-451b-bacf-caf66c30c239,Benjamin Salinas,Highly recommend this!,2,2025-02-16
+3b0c5593-dfb7-4d55-b0fe-e9dfae974947,Jessica Mays,"Average, nothing special.",4,2025-02-15
+4ded03d7-af31-4d32-bc2a-57f7dd40c294,Jessica Frye,"Terrible quality, broke quickly.",4,2025-02-02
+13b82b6c-7677-44bc-ac5b-4df269a96e94,Manuel Cole,"Very disappointed, poor design.",1,2025-01-25
+ad213587-4665-47d9-8b2b-e9db019f512a,Melinda Brown,Highly recommend this!,3,2025-01-10
+6da1d444-3826-473b-989c-6c430420b0fe,Lee Phillips,"Average, nothing special.",4,2025-02-11
+2037df5f-1428-4f2a-a62b-8e325bf3657c,Jordan Hensley,"Very disappointed, poor design.",4,2025-01-23
+05ba30da-d1c1-4cc5-8ebf-0572c08514c1,Charles Thompson,Highly recommend this!,3,2025-01-06
+70cc57fa-03d8-4f66-af4c-dad54de0210a,Eugene Conley,"Very disappointed, poor design.",1,2025-01-16
+353aa202-0ace-4f20-b75c-ef21dc1deb82,Kimberly Martin,"Average, nothing special.",4,2025-02-16
+5f32e1d4-ea1b-431f-989b-4940abca378c,Jacqueline Hampton,Excellent service and fast delivery!,1,2025-01-31
+a887a1c9-267d-4984-83f9-31ae9863fd30,Margaret Flores,"Very disappointed, poor design.",1,2025-01-03
+e43ddf44-9b2b-4043-bdf5-eb464914bc1c,Cheryl Richardson,"Average, nothing special.",1,2025-01-30
+b9a8fa59-36f3-43ed-8f68-82fe3042f9eb,Julia Hunter,Highly recommend this!,3,2025-02-18
+7ac3f7da-0882-4abe-9551-4d2c71881302,Wanda Norton,"Average, nothing special.",4,2025-02-04
+e53545e3-da6e-4695-86c6-2c26675174ce,Crystal Hammond,Excellent service and fast delivery!,2,2025-02-05
+140be092-f3f8-4968-9fab-15010e44a57a,Daniel Chavez,Excellent service and fast delivery!,2,2025-01-11
+07a8ee30-9b5d-49a3-90b3-f67607e724a6,Pamela Hernandez,Highly recommend this!,5,2025-01-03
+c93b35bf-c53d-4465-87de-f437fa64138e,Peter Flynn,"Terrible quality, broke quickly.",5,2025-01-16
+7999d846-8d9b-427e-8b1c-3833f993d6f3,Susan Buchanan,Excellent service and fast delivery!,2,2025-01-18
+97dd85fb-9180-4fa3-893b-0f1fdcc215dc,Brian Yang,"Great product, very useful!",1,2025-01-01
+0e96a40d-d140-4fa9-a4e0-f9ac13749e68,Michelle Griffin,"Average, nothing special.",3,2025-02-09
+9d47c79f-f7be-424b-bdfa-94f87136fe72,Phillip Mcgee,"Terrible quality, broke quickly.",5,2025-02-12
+0270ef99-3348-4b29-aac8-ff6fc550d53a,Kimberly Campbell,"Great product, very useful!",5,2025-02-02
+78688180-0f94-45d9-93ff-fb5ed15179f6,Joshua Newton,"Very disappointed, poor design.",5,2025-01-22
+72756ec1-b7ce-4db4-806b-953da036903d,Jorge Martin,Highly recommend this!,5,2025-01-17
+910fab62-dc60-4470-8299-64026c2d30b2,Christopher Brown,Not worth the money.,5,2025-02-04
+85e28762-20b6-4082-9e9a-34e10825ddb0,Kaitlin Santos,Highly recommend this!,3,2025-02-09
+c261a36b-86a0-4c3e-a996-f335801c05bf,Julia Werner,Not worth the money.,5,2025-01-15
+8e857cfd-e929-44c2-ac8b-3603cb1c0696,Paul Harding,"Very disappointed, poor design.",2,2025-01-19
+b1fe65dd-724d-40ab-ac67-5dd48de18e27,Eric Lynch,"Very disappointed, poor design.",3,2025-02-12
+9abb4512-f6e3-4cfb-b32e-28cd2e260741,Sandra Hughes,Excellent service and fast delivery!,2,2025-01-29
+268b2de0-8ba2-408f-8510-d43f1ed304cf,Dustin Mason,"Average, nothing special.",3,2025-01-17
+d86bb899-c231-4dd8-afa4-ee2b86698287,Ethan Mann,"Great product, very useful!",5,2025-01-05
+84178464-4cdd-4f72-a712-e099ba1b027c,Linda Wise,"Average, nothing special.",3,2025-01-25
+35b7d038-f7ec-4c34-8bbc-dee6a968917d,Jennifer Wiley,Not worth the money.,2,2025-01-19
+535fccaf-cc07-415b-889f-deb8af1b1b67,Charles Le,Not worth the money.,1,2025-01-30
+c2ed319c-6f46-42e1-b157-696e44c7896d,Tara Tapia,"Great product, very useful!",4,2025-02-03
+adfae0ea-a502-455d-8034-6efc077bf0ae,Elizabeth Hall,"Great product, very useful!",2,2025-02-16
+f731d875-9924-47fb-861d-a4b3a5e323f0,William Matthews,"Average, nothing special.",2,2025-02-01
+da1e9b9d-8bf7-4c71-94bb-671a7bbf7f0a,Christopher Hammond,Highly recommend this!,1,2025-01-16
+5b78245e-3122-4125-88ff-c8fa10403225,Kimberly Garcia,"Terrible quality, broke quickly.",4,2025-01-12
+64cb6cbe-82ab-436e-b3bf-30351fe17ba5,Matthew Clark,Not worth the money.,4,2025-01-02
+9bedfd1c-28cc-4992-a418-13386710666c,Melissa Cooper,Excellent service and fast delivery!,3,2025-01-30
+77a3c9c0-64dd-4099-8d1b-4fcde501c757,Michael Spencer,"Great product, very useful!",3,2025-01-13
+79aa191d-1e04-4a2f-a7e4-357c980a8a49,Morgan Flowers,Excellent service and fast delivery!,4,2025-01-03
+03549589-2841-42c1-a139-c1592abcd447,Amber Walker,"Terrible quality, broke quickly.",5,2025-01-10
+44c73209-d793-413f-b30a-01c808a6548a,Chad Cole,"Average, nothing special.",3,2025-01-02
+b5e44f10-dea8-4b44-be12-8524a61a1d8a,Travis Miller,"Terrible quality, broke quickly.",2,2025-02-13
+42084631-b762-4aff-b786-bbdfe7fb1010,Samantha Hobbs,"Average, nothing special.",4,2025-02-14
+4435e913-1363-4696-8397-68ba196290d2,David Hernandez,Highly recommend this!,4,2025-01-22
+2cade97e-498b-401e-977e-889410e2434b,Christopher Torres,"Terrible quality, broke quickly.",3,2025-02-10
+b8b9d679-50e9-478b-bb83-6a5bcb556f3f,Nicole Burnett,Excellent service and fast delivery!,1,2025-02-02
+5808de82-743d-4b24-bec1-4690f0d50295,Samantha Hoffman,"Terrible quality, broke quickly.",1,2025-01-02
+8f9d11db-c82a-4027-802a-34dcbee1845b,Madeline Moore,"Great product, very useful!",2,2025-02-18
+edd84d09-d985-4342-9544-86dbe749a6c3,Mary Allen,Highly recommend this!,4,2025-02-06
+cc857d8f-08b0-4d14-9a8f-e53f267063f6,Melissa Fleming,"Great product, very useful!",3,2025-02-04
+7b407e68-951b-47c0-9cd2-e4e3324bb1a7,Kimberly Davidson,"Great product, very useful!",3,2025-01-21
+6e799f9c-6358-42bb-8877-6a79a929c1b9,Tanya Hogan,Excellent service and fast delivery!,5,2025-01-01
+5250ca58-fa44-44bd-a483-e3d8fc5f7ead,Yvonne Navarro,Highly recommend this!,3,2025-02-08
+f5afd244-7846-494d-8ae0-7fa7c8a4dbef,Daniel Welch,"Very disappointed, poor design.",3,2025-02-12
+74e34446-d9b4-4cb1-b4f0-f941c477625d,April Moreno,"Average, nothing special.",4,2025-02-14
+8836fe13-01e1-4f5a-adc1-ab258e3bb46e,Nicole Gardner,"Very disappointed, poor design.",1,2025-01-16
+6696a6e5-64a1-4e6a-8250-d032793b9c12,Rose Flores,"Average, nothing special.",2,2025-02-16
+63978ffb-2495-46c1-8c95-db4893f190c7,Brandi Rose,"Average, nothing special.",2,2025-02-04
+5150ba2f-2a0a-4b0e-9c13-5dd9574e36e5,Christina Walter,Excellent service and fast delivery!,5,2025-01-10
+563c6622-9c7c-4945-8929-4c1e0be9e2b1,Shawn Guzman,Excellent service and fast delivery!,4,2025-01-05
+b8f4e88e-53f3-4fb9-a27a-1040d4d633bc,Tony Torres,Excellent service and fast delivery!,5,2025-02-10
+e632213e-061e-49a1-a821-9a151cfc8023,Katherine Gordon,"Average, nothing special.",2,2025-02-06
+7b93c0f4-900e-4d24-8297-94ebce2ae3af,Amber Clarke,"Terrible quality, broke quickly.",4,2025-02-15
+4c1758ce-714c-4b5d-b6f0-dd7b21315d3b,Caleb Alexander,"Average, nothing special.",4,2025-01-30
+fbb7266e-8ae0-4841-9e5d-cc2b21bab36d,Jason Johnson,"Very disappointed, poor design.",5,2025-01-12
+b4fc0eaf-cd44-49f6-8d70-720639541437,Emily Stewart,Not worth the money.,2,2025-01-18
+01a3db17-563e-42b3-9eb8-9dfa8f296b0f,Lawrence Hubbard,Not worth the money.,2,2025-01-19
+a531be06-dac9-4d0c-89da-f8400f34c996,Alison Carter,Not worth the money.,2,2025-02-04
+9b6248ec-04e5-4342-bf04-23798234d1ee,Eric Hunt,"Terrible quality, broke quickly.",1,2025-02-04
+de02a6f3-64cf-478d-8ddb-1207e1952a9e,Tim Holder,Excellent service and fast delivery!,3,2025-01-03
+b2d83f5b-23b6-479d-856b-aa5e90a1c200,Stephanie Drake,"Terrible quality, broke quickly.",3,2025-01-18
+7fe72724-c42e-4116-8d27-a1aaefc33edd,Taylor Gonzalez,"Average, nothing special.",1,2025-01-02
+731b59fd-795b-4350-b5bb-9e5230be7c9e,Clifford Herrera,Excellent service and fast delivery!,2,2025-01-02
+c2a835c3-f1ce-4bc2-8714-3a236abbf8f7,Randy Finley,"Average, nothing special.",1,2025-01-21
+94aeab4c-6bcf-479c-82c9-63c740fa3432,Miguel Melendez,Not worth the money.,1,2025-01-17
+ec61463d-8f18-4edd-b9f9-b3c588b958c3,Alexandra Smith,"Average, nothing special.",1,2025-02-12
+b3400120-9e1f-46f2-a3e1-7edf69c5be2d,Daniel Sparks,"Terrible quality, broke quickly.",3,2025-02-01
+781d2050-4074-4357-8cf7-f06a2b0a17fc,Damon Silva,Not worth the money.,1,2025-02-05
+c3b9c1e2-bbfb-451e-8a52-8ff439541363,Michael Luna,"Very disappointed, poor design.",4,2025-01-27
+e11233d2-92fd-474b-bf29-fec234f66d27,Robin Rodriguez,Excellent service and fast delivery!,2,2025-02-11
+1188180e-72ba-4c77-9b6d-aab3f4dddca5,Meagan Rivera,"Average, nothing special.",5,2025-02-07
+819dd917-fc26-4827-9274-f30f3c96bbd0,Ashley Carpenter,Highly recommend this!,5,2025-01-19
