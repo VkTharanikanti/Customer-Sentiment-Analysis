@@ -1,0 +1,8 @@
+Review_ID,Customer,Review,Rating,Date,Cleaned_Review,Sentiment Score,Sentiment Label
+bcfdc4eb-e781-412d-925b-d4045322a49a,James Hopkins,"Great product, very useful!",3,2025-02-15,great product very useful,0.807,Positive
+6a7353e6-c47b-4267-a463-423049e0f8bb,Shannon Brady,Excellent service and fast delivery!,2,2025-01-19,excellent service and fast delivery,0.5719,Positive
+9b035591-fbe7-4180-9bf6-af9aeab6b77d,Karen Gutierrez,"Terrible quality, broke quickly.",1,2025-01-06,terrible quality broke quickly,-0.7096,Negative
+a869e6d7-5e5c-44ae-93bd-4f3b3d2621c5,Brett Mann,"Very disappointed, poor design.",1,2025-01-22,very disappointed poor design,-0.7764,Negative
+e782007a-dac3-4c96-b9f5-eadbf44cdbd0,Nathan Benitez,"Average, nothing special.",1,2025-01-01,average nothing special,-0.3089,Negative
+590c7b26-6df1-4f27-9fff-321ca45cf258,Michael Rivas,Not worth the money.,3,2025-01-22,not worth the money,-0.1695,Negative
+5b92389f-d9c3-46b2-9762-c119e0bc2b80,Dominic Singh,Highly recommend this!,5,2025-01-18,highly recommend this,0.4201,Positive
