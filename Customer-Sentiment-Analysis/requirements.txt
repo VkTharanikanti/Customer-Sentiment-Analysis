@@ -1,0 +1,9 @@
+## 6️⃣ Install Dependencies (requirements.txt)
+
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+textblob
+streamlit
